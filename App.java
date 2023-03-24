@@ -1,10 +1,15 @@
-package AtividadeRevisao;
+package Prova;
 
-public class App {
+import java.util.Scanner;
+
+public class App {Scanner sc = new Scanner(System.in);
     public static void main(String[] args) {
-        Rexemplo obj1  = new Rexemplo();
-       obj1.exemplo2();
-        
-    }
+      
+    
+Exercicio obj1 = new Exercicio();
+  obj1.Exercicio3();
+
+}
+
     
 }
